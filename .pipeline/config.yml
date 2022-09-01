@@ -24,7 +24,7 @@ stages:
     cloudFoundryDeploy: true
     cfApiEndpoint: "https://api.cf.us10.hana.ondemand.com"
     cfOrg: "org"
-    cfSpace: "space"
+    cfSpace: "dev"
     cfAppName: "app"
     cfCredentialsId: "deploy-to-cf"
     tmsUpload: false
